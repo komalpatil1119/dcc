@@ -2312,13 +2312,17 @@
         line-height: 51px;
     }
     .rs-slider.slider8 .owl-dots {
-        right: 15px;
+        right: 10px;
     }
     .rs-slider.slider8 .slider {
         padding: 175px 0 180px;
     }
     .rs-slider.slider8 .slider .content-part .slider-bottom ul li .readon {
         padding: 12px 40px;
+    }
+    .strategic-banner h1 {
+        font-size: 30px;
+        line-height: 37px;
     }
     .rs-slider.slider8 .slider .content-part .slider-bottom ul li .popup-videos {
         width: 50px;
@@ -2333,7 +2337,7 @@
         padding: 50px;
     }
     .rs-breadcrumbs .content-part {
-        padding: 70px 0;
+        padding: 50px 0;
     }
     .rs-cta.bg21 .sec-title .title3 br {
         display: none;
@@ -3418,18 +3422,18 @@
         max-width: 195px;
     }
     .rs-slider.slider8 .slider {
-        padding: 40px 0 40px;
+        padding: 27px 0 27px;
     }
     .rs-slider.slider8 .slider .content-part .sl-title {
-        font-size: 25px;
-        line-height: 32px;
+        font-size: 20px;
+        line-height: 25px;
 
     }
     .rs-slider.slider8 .slider .content-part .sl-subtitle {
         margin-bottom: 6px;
     }
     .rs-slider.slider8 .slider-bottom {
-        margin-top: 20px;
+        margin-top: 8px;
     }
     .rs-slider.slider8 .slider .content-part .slider-bottom ul li .readon {
         padding: 8px 28px;
@@ -3470,7 +3474,7 @@
         padding: 50px 15px;
     }
     .rs-slider.slider8 .owl-dots {
-        top: 17%;
+        top: 30%;
     }
     .rs-freequote.style3 .quote-form {
         padding: 42px 15px 50px;

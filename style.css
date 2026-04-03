@@ -5814,6 +5814,19 @@ body .modal-backdrop {
 .rs-slider.slider8 .slider.slide2 .content-part {
   max-width: 665px;
 }
+.founder-section .list-unstyled li{
+  font-size: 15px;
+}
+.strategic-banner h1{
+  font-size: 38px;
+  line-height: 50px;
+}
+.strategic-banner h6{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
 .rs-slider.slider8 .slider .content-part .sl-subtitle {
   font-size: 13px;
   line-height: 24px;
@@ -7065,7 +7078,7 @@ body .modal-backdrop {
   background-image: url(assets/images/breadcrumbs/9.jpg);
 }
 .rs-breadcrumbs .content-part {
-  padding: 160px 0;
+  padding: 120px 0;
 }
 .rs-breadcrumbs .content-part .breadcrumbs-title {
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
