@@ -20516,8 +20516,8 @@ body .modal-backdrop {
 }
 
 .founder-hero {
-  background: linear-gradient(135deg, #081b4b, #0f2d7a);
-  color: #fff;
+  /* background: linear-gradient(135deg, #26ace1, #0f2d7a); */
+  color: #000;
   padding: 90px 0;
 }
 
@@ -20530,7 +20530,6 @@ body .modal-backdrop {
 .founder-hero p {
   font-size: 17px;
   line-height: 1.8;
-  color: rgba(255, 255, 255, 0.9);
 }
 
 .founder-img {
