@@ -27,6 +27,26 @@
         max-width: 750px;
     }
 }
+@media screen and (max-width: 768px){
+    .highlights-grid,
+    .investor-details,
+    .process-grid {
+        grid-template-columns: 1fr;
+    }
+    .focus-box h3 {
+        font-size: 24px;
+    }
+
+    .focus-box {
+        padding: 30px 20px;
+    }
+    .height-slider {
+        height: 307px;
+    }
+    .slider-des {
+        width: 370px;
+    }
+}
 @media screen and (min-width: 992px){
     .container.custom-for-sl {
         max-width: 990px;
@@ -808,6 +828,9 @@
     .md-order-first {
         -ms-flex-order: -1;
         order: -1;
+    }
+    .process-grid {
+        grid-template-columns: repeat(2, 1fr);
     }
     .hidden-md {
         display: none;
@@ -3436,7 +3459,7 @@
         margin-top: 8px;
     }
     .rs-slider.slider8 .slider .content-part .slider-bottom ul li .readon {
-        padding: 8px 28px;
+        padding:5px 10px;
     }
     .rs-team.grid1 .sec-title .title br,
     .rs-decoration.style1 .sec-title .title br,
